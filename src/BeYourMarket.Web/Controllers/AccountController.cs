@@ -96,11 +96,11 @@ namespace BeYourMarket.Web.Controllers
             {
                 return View(model);
             }
-            
+
             // Require the user to have a confirmed email before they can log on.
             if (CacheHelper.Settings.EmailConfirmedRequired)
             {
-                var user = await UserManager.FindByNameAsync(model.Email);                
+                var user = await UserManager.FindByNameAsync(model.Email);
                 if (user != null)
                 {
                     var roleAdministrator = await RoleManager.FindByNameAsync(Enum_UserType.Administrator.ToString());
@@ -162,9 +162,9 @@ namespace BeYourMarket.Web.Controllers
                 return View(model);
             }
 
-            // The following code protects for brute force attacks against the two factor codes. 
-            // If a user enters incorrect codes for a specified amount of time then the user account 
-            // will be locked out for a specified amount of time. 
+            // The following code protects for brute force attacks against the two factor codes.
+            // If a user enters incorrect codes for a specified amount of time then the user account
+            // will be locked out for a specified amount of time.
             // You can configure the account lockout settings in IdentityConfig
             var result = await SignInManager.TwoFactorSignInAsync(model.Provider, model.Code, isPersistent: model.RememberMe, rememberBrowser: model.RememberBrowser);
             switch (result)
@@ -198,12 +198,12 @@ namespace BeYourMarket.Web.Controllers
             if (ModelState.IsValid)
             {
                 var result = await RegisterAccount(model);
-                
+
                 // Add errors
                 AddErrors(result);
 
                 if (result.Succeeded)
-                    return RedirectToAction("Index", "Manage");                
+                    return RedirectToAction("Index", "Manage");
             }
 
             // If we got this far, something failed, redisplay form
@@ -211,7 +211,7 @@ namespace BeYourMarket.Web.Controllers
         }
 
         public async Task<IdentityResult> RegisterAccount(RegisterViewModel model)
-        {                        
+        {
             var user = new ApplicationUser
             {
                 UserName = model.Email,
@@ -239,16 +239,19 @@ namespace BeYourMarket.Web.Controllers
                 var roleAdministrator = await RoleManager.FindByNameAsync(BeYourMarket.Model.Enum.Enum_UserType.Administrator.ToString());
                 var administrator = roleAdministrator.Users.FirstOrDefault();
 
-                var message = new MessageSendModel()
+                if (administrator != null)
                 {
-                    UserFrom = administrator.UserId,
-                    UserTo = user.Id,
-                    Subject = HttpContext.ParseAndTranslate(string.Format("[[[Welcome to {0}!]]]", CacheHelper.Settings.Name)),
-                    Body = HttpContext.ParseAndTranslate(string.Format("[[[Hi, Welcome to {0}! I am happy to assist you if you has any questions.]]]", CacheHelper.Settings.Name))
+                    var message = new MessageSendModel()
+                    {
+                        UserFrom = administrator.UserId,
+                        UserTo = user.Id,
+                        Subject = HttpContext.ParseAndTranslate(string.Format("[[[Welcome to {0}!]]]", CacheHelper.Settings.Name)),
+                        Body = HttpContext.ParseAndTranslate(string.Format("[[[Hi, Welcome to {0}! I am happy to assist you if you has any questions.]]]", CacheHelper.Settings.Name))
 
-                };
+                    };
 
-                await MessageHelper.SendMessage(message);
+                    await MessageHelper.SendMessage(message);
+                }
 
                 // Send an email with this link
                 string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
@@ -269,7 +272,7 @@ namespace BeYourMarket.Web.Controllers
                     email.CallbackUrl = callbackUrl;
                     EmailHelper.SendEmail(email);
                 }
-            }            
+            }
 
             return result;
         }
@@ -319,7 +322,7 @@ namespace BeYourMarket.Web.Controllers
                 // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
                 // Send an email with this link
                 // string code = await UserManager.GeneratePasswordResetTokenAsync(user.Id);
-                // var callbackUrl = Url.Action("ResetPassword", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);		
+                // var callbackUrl = Url.Action("ResetPassword", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                 // await UserManager.SendEmailAsync(user.Id, "Reset Password", "Please reset your password by clicking <a href=\"" + callbackUrl + "\">here</a>");
                 // return RedirectToAction("ForgotPasswordConfirmation", "Account");
 
@@ -357,7 +360,7 @@ namespace BeYourMarket.Web.Controllers
         [AllowAnonymous]
         public ActionResult ResetPassword(string code)
         {
-            return code == null ? View("Error") : View();
+            return code == null ? View("Error") : View(new ResetPasswordViewModel() { Code = code });
         }
 
         //
@@ -383,7 +386,7 @@ namespace BeYourMarket.Web.Controllers
                 return RedirectToAction("ResetPasswordConfirmation", "Account");
             }
             AddErrors(result);
-            return View();
+            return View(model);
         }
 
         //

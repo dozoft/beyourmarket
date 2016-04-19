@@ -64,7 +64,7 @@ namespace BeYourMarket.Web.Migrations
             var user = CreateUser();
 
             if (_installModel.InstallSampleData)
-            {                
+            {
                 InstallCategories(context);
                 InstallCategoryTypes(context);
                 InstallSampleData(context, user);
@@ -78,8 +78,8 @@ namespace BeYourMarket.Web.Migrations
         {
             var user = new ApplicationUser
             {
-                UserName = _installModel.Email,
-                FirstName = "Administrator",                
+                UserName = "Administrator",
+                FirstName = "Administrator",
                 Email = _installModel.Email,
                 RegisterDate = DateTime.Now,
                 RegisterIP = HttpContext.Current.Request.GetVisitorIP(),
@@ -99,6 +99,22 @@ namespace BeYourMarket.Web.Migrations
                 var userRole = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole(Enum_UserType.Administrator.ToString());
                 var roleResult = RoleManager.Create(userRole);
                 var result = userManager.Create(user, _installModel.Password);
+                if (!result.Succeeded)
+                {
+                    string errorMessage = null;
+                    if (result.Errors != null)
+                    {
+                        if (result.Errors.Any())
+                        {
+                            foreach (var err in result.Errors)
+                            {
+                                errorMessage = err + System.Environment.NewLine;
+                            }
+                            throw new ApplicationException(errorMessage);
+                        }
+                    }
+                }
+
                 var roleAdded = userManager.AddToRole(user.Id, Enum_UserType.Administrator.ToString());
             }
 
@@ -449,7 +465,7 @@ namespace BeYourMarket.Web.Migrations
                 Created = DateTime.Now,
                 LastUpdated = DateTime.Now,
                 ObjectState = Repository.Pattern.Infrastructure.ObjectState.Added
-            });            
+            });
         }
 
         private void InstallListingTypes(Model.Models.BeYourMarketContext context)

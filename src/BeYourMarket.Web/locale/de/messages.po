@@ -1,0 +1,2038 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-04-17 19:09+02:00\n"
+"PO-Revision-Date: 2016-04-17 19:09+02:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: i18n.POTGenerator\n"
+
+#: Extensions\ExtensionMethods.cs:106
+msgid "\", \"(((\").Replace(\""
+msgstr "\", \"(((\").Replace(\""
+
+#: Views\Listing\Listing.cshtml:268
+#: Views\Listing\Profile.cshtml:25
+#: Views\Listing\Review.cshtml:36
+msgid "{0:N0} reviews"
+msgstr "{0: N0} Bewertungen"
+
+#: Areas\Admin\Controllers\PluginController.cs:123
+msgid "{0} is disabled"
+msgstr "{0} ist deaktiviert"
+
+#: Areas\Admin\Controllers\PluginController.cs:119
+msgid "{0} is enabled"
+msgstr "{0} ist aktiviert"
+
+#: Areas\Admin\Controllers\PluginController.cs:111
+msgid "{0} is installed"
+msgstr "{0} installiert"
+
+#: Areas\Admin\Controllers\PluginController.cs:115
+msgid "{0} is uninstalled"
+msgstr "{0} wird deinstalliert"
+
+#: Views\Home\About.cshtml:2
+msgid "About"
+msgstr "Über"
+
+#: Views\Payment\Orders.cshtml:25
+#: Areas\Admin\Views\Payment\Order.cshtml:24
+msgid "Accept"
+msgstr "Annehmen"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:101
+msgid "Accept Email"
+msgstr "E-Mail akzeptieren "
+
+#: Views\Listing\ListingUpdate.cshtml:64
+#: Areas\Admin\Views\Listing\Listings.cshtml:67
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:133
+msgid "Active"
+msgstr "Aktiv"
+
+#: Views\Manage\AddPhoneNumber.cshtml:11
+msgid "Add a phone number"
+msgstr "Telefonnummer hinzufügen"
+
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:113
+msgid "add an option"
+msgstr "fügen Sie eine Option hinzu"
+
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:28
+#: Areas\Admin\Views\Listing\Categories.cshtml:49
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:46
+#: Areas\Admin\Views\Listing\Listings.cshtml:44
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:46
+#: Areas\Admin\Views\Manage\Users.cshtml:28
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:139
+msgid "Add new page"
+msgstr "Neue Seite erstellen"
+
+#: Views\Shared\_DashBoardSide.cshtml:25
+msgid "Admin"
+msgstr "Administrator"
+
+#: Views\Shared\_LoginPartial.cshtml:68
+#: Views\Shared\_NavigationSide.cshtml:92
+msgid "Admin Panel"
+msgstr "1:=Admin Panel"
+
+#: Areas\Admin\Views\Install\Index.cshtml:28
+msgid "Admin user email"
+msgstr "Admin-Benutzer E-Mail"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:111
+msgid "Administrator"
+msgstr "Verwalter"
+
+#: Views\Account\Register.cshtml:26
+msgid "Agreement"
+msgstr "Vereinbarung"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:102
+msgid "Agreement Label"
+msgstr "Vertragsetikett"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:91
+msgid "Agreement Required"
+msgstr "Vertrag erforderlich"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:109
+msgid "Agreement Text"
+msgstr "Vertragstext"
+
+#: Views\Listing\Listings.cshtml:51
+#: Views\Shared\_NavigationSide.cshtml:25
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:126
+msgid "Allow Listing Review"
+msgstr "Erlaube Listing Bewertung"
+
+#: Views\Account\Register.cshtml:69
+msgid "Already a member?"
+msgstr "Schon ein Mitglied?"
+
+#: Views\Listing\ListingUpdate.cshtml:25
+msgid "Already a member? "
+msgstr "Schon ein Mitglied? "
+
+#: Views\Shared\Error.cshtml:13
+msgid "An error occurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+#: Areas\Admin\Views\Design\Appearance.cshtml:4
+#: Areas\Admin\Views\Design\Appearance.cshtml:17
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:92
+msgid "Appearance"
+msgstr "Aussehen"
+
+#: Views\Listing\Listings.cshtml:95
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: Views\Manage\Dashboard.cshtml:67
+#: Views\Payment\Orders.cshtml:166
+#: Areas\Admin\Views\Listing\Categories.cshtml:101
+#: Areas\Admin\Views\Listing\Listings.cshtml:92
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:102
+#: Areas\Admin\Views\Manage\Users.cshtml:77
+#: Areas\Admin\Views\Payment\Order.cshtml:142
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+#: Areas\Admin\Controllers\ManageController.cs:550
+msgid "At least one language should be enabled!"
+msgstr "Mindestens ein Channel soll aktiviert werden."
+
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:47
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:52
+msgid "Author"
+msgstr "Autor"
+
+#: Views\Shared\Error.cshtml:47
+msgid "Back to the Home"
+msgstr "Zurück zur Startseite"
+
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:55
+msgid "Body"
+msgstr "Nachrichtentext"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:69
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:40
+msgid "Button Label"
+msgstr "Taste Beschriftung"
+
+#: Views\Listing\ListingUpdate.cshtml:130
+#: Views\Listing\Review.cshtml:74
+#: Views\Payment\Orders.cshtml:26
+#: Views\Payment\Orders.cshtml:30
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:77
+#: Areas\Admin\Views\Design\Appearance.cshtml:45
+#: Areas\Admin\Views\Design\CodeScript.cshtml:35
+#: Areas\Admin\Views\Design\CodeStyle.cshtml:35
+#: Areas\Admin\Views\Listing\Categories.cshtml:71
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:59
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:91
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:113
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:196
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:64
+#: Areas\Admin\Views\Manage\Settings.cshtml:167
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:69
+#: Areas\Admin\Views\Manage\SettingsLanguage.cshtml:43
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:147
+#: Areas\Admin\Views\Payment\Order.cshtml:25
+#: Areas\Admin\Views\Payment\Order.cshtml:29
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:46
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: Controllers\PaymentController.cs:167
+#: Views\Payment\Orders.cshtml:51
+#: Areas\Admin\Views\Payment\Order.cshtml:46
+#: Areas\Admin\Views\Payment\Order.cshtml:165
+msgid "Cancelled"
+msgstr "Abgesagt"
+
+#: Views\Manage\Dashboard.cshtml:91
+#: Views\Payment\Orders.cshtml:189
+#: Areas\Admin\Views\Listing\Listings.cshtml:105
+msgid "Cancelled!"
+msgstr "Abgesagt"
+
+#: Views\Shared\_NavigationSide.cshtml:98
+#: Areas\Admin\Views\Listing\Categories.cshtml:8
+#: Areas\Admin\Views\Listing\Categories.cshtml:37
+msgid "Categories"
+msgstr "Kategorien"
+
+#: Views\Listing\Listing.cshtml:140
+#: Views\Listing\Listings.cshtml:50
+#: Views\Listing\ListingUpdate.cshtml:35
+#: Views\Listing\_ListingGridList.cshtml:35
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:4
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:12
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:69
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:76
+#: Areas\Admin\Views\Listing\Listings.cshtml:65
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:31
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:67
+msgid "Category"
+msgstr "Kategorie"
+
+#: Areas\Admin\Views\Listing\Categories.cshtml:121
+msgid "Category is deleted."
+msgstr "Kategorie wird gelöscht."
+
+#: Views\Manage\ChangePassword.cshtml:3
+#: Views\Manage\ChangePassword.cshtml:47
+#: Views\Shared\_DashBoardSide.cshtml:20
+msgid "Change Password"
+msgstr "Kennwort ändern"
+
+#: Views\Manage\ChangePassword.cshtml:18
+#: Views\Manage\ChangePassword.cshtml:24
+msgid "Change Password Form"
+msgstr "Passwort ändern Formular"
+
+#: Views\Manage\Index.cshtml:10
+msgid "Change your account settings"
+msgstr "Ändern Sie Ihre Kontoeinstellungen"
+
+#: Views\Manage\Index.cshtml:18
+msgid "Change your password"
+msgstr "Ändern Sie Ihr Passwort"
+
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:78
+msgid "Choose Category..."
+msgstr "Kategorie 4 wählen"
+
+#: Views\Account\Register.cshtml:33
+#: Views\Listing\_ListingContactModal.cshtml:29
+#: Views\Listing\_ListingContactModal.cshtml:41
+#: Views\Listing\_ListingReviewModal.cshtml:29
+#: Views\Listing\_ListingReviewModal.cshtml:43
+msgid "Close"
+msgstr "Schließen"
+
+#: Models\AccountViewModels.cs:32
+#: Models\ManageViewModels.cs:72
+msgid "Code"
+msgstr "Kennzeichen"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Widget.Disqus\Views\Index.cshtml:6
+#: Plugins\Plugin.Widget.Disqus\Views\Index.cshtml:6
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Widget.Disqus\bin\Views\Index.cshtml:6
+msgid "Comments"
+msgstr "Kommentare"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:43
+msgid "Configure"
+msgstr "Konfigurieren"
+
+#: Areas\Admin\Views\Hook\ConfigureHook.cshtml:8
+msgid "Configure Hook"
+msgstr "Optionen konfigurieren"
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:80
+msgid "Configure Plugins"
+msgstr "Plugins konfigurieren "
+
+#: Views\Account\ConfirmEmail.cshtml:2
+msgid "Confirm Email"
+msgstr "E-Mail bestätigen"
+
+#: Models\ManageViewModels.cs:37
+#: Models\ManageViewModels.cs:56
+msgid "Confirm new password"
+msgstr "Neues Kennwort bestätigen"
+
+#: Models\AccountViewModels.cs:79
+#: Models\AccountViewModels.cs:104
+msgid "Confirm password"
+msgstr "Passwort bestätigen"
+
+#: Views\Account\Register.cshtml:54
+#: Views\Account\Register.cshtml:55
+#: Views\Listing\ListingUpdate.cshtml:123
+#: Views\Listing\ListingUpdate.cshtml:124
+msgid "Confirm Password"
+msgstr "Passwort Bestätigen"
+
+#: Views\Payment\Orders.cshtml:159
+#: Areas\Admin\Views\Payment\Order.cshtml:135
+msgid "Confirm to accept the order"
+msgstr "Bestätigung notwendig um die Bestellung zu akzeptieren"
+
+#: Views\Payment\Orders.cshtml:161
+#: Areas\Admin\Views\Payment\Order.cshtml:137
+msgid "Confirm to cancel the order"
+msgstr "Bestätigung erforderlich um die Bestellung zu stornieren"
+
+#: Controllers\PaymentController.cs:164
+msgid "Confirmed"
+msgstr "Bestätigt"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Controllers\PaymentStripeController.cs:228
+msgid "Connnect to stripe successfully!"
+msgstr "Verbindung erfolgreich zu stripe"
+
+#: Views\Home\Contact.cshtml:4
+#: Views\Listing\Listing.cshtml:66
+#: Views\Listing\Listing.cshtml:236
+#: Views\Listing\Listing.cshtml:239
+#: Views\Listing\Listing.cshtml:272
+#: Views\Listing\_ListingContactModal.cshtml:8
+msgid "Contact"
+msgstr "Kontakt"
+
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:63
+msgid "Contact Email"
+msgstr "Kontakt E-Mail"
+
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:56
+msgid "Contact Name"
+msgstr "Kontaktname"
+
+#: Views\Listing\Listing.cshtml:230
+#: Views\Listing\Listing.cshtml:230
+#: Views\Listing\_ListingContactModal.cshtml:17
+msgid "Contact number (Click to show)"
+msgstr "Kontakt (Klicken zum anzeigen)"
+
+#: Views\Listing\_ListingContactModal.cshtml:17
+msgid "Contact number (Double click to show)"
+msgstr "Kontakt (Doppelklicken zum anzeigen)"
+
+#: Views\Home\Contact.cshtml:16
+#: Views\Shared\_NavigationSide.cshtml:111
+msgid "Contact us"
+msgstr "Kontakt"
+
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:4
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:16
+msgid "Content Page Update"
+msgstr "Inhaltsseite aktualisieren"
+
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:10
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:23
+msgid "Content Pages"
+msgstr "Content-Seiten"
+
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:68
+msgid "Count"
+msgstr "Anzahl"
+
+#: Areas\Admin\Views\Design\Appearance.cshtml:29
+msgid "Cover photo"
+msgstr "Titelbild"
+
+#: Views\Manage\Index.cshtml:22
+msgid "Create"
+msgstr "Erstellen"
+
+#: Views\Account\Register.cshtml:12
+#: Views\Shared\_LoginPartial.cshtml:82
+#: Views\Shared\_NavigationSide.cshtml:65
+msgid "Create an account"
+msgstr "Benutzerkonto erstellen"
+
+#: Areas\Admin\Views\Install\Index.cshtml:39
+msgid "Create Sample Data"
+msgstr "Erstellen der Beispieldaten"
+
+#: Views\Listing\_ListingGridList.cshtml:44
+#: Views\Payment\Orders.cshtml:132
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:49
+#: Areas\Admin\Views\Listing\Listings.cshtml:71
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:115
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:39
+#: Areas\Admin\Views\Payment\Order.cshtml:112
+msgid "Created"
+msgstr "Erstellt"
+
+#: Areas\Admin\Views\Design\CodeStyle.cshtml:10
+#: Areas\Admin\Views\Design\CodeStyle.cshtml:20
+msgid "CSS Code Editor"
+msgstr "CSS-Code-Editor"
+
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:87
+#: Areas\Admin\Views\Manage\Settings.cshtml:63
+#: Areas\Admin\Views\Manage\Settings.cshtml:65
+msgid "Currency"
+msgstr "Währung"
+
+#: Models\ManageViewModels.cs:46
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:93
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:4
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:17
+msgid "Custom Field"
+msgstr "Benutzerdefiniertes Feld 1"
+
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:35
+#: Areas\Admin\Views\Shared\_CategoryCustomFields.cshtml:6
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:85
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:94
+msgid "Custom Javascript"
+msgstr "Eigenes JavaScript"
+
+#: Views\Manage\Dashboard.cshtml:4
+#: Views\Shared\_LoginPartial.cshtml:62
+#: Views\Shared\_NavigationSide.cshtml:78
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:3
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:76
+msgid "Dashboard"
+msgstr "Übersichtsseite"
+
+#: Areas\Admin\Views\Install\Index.cshtml:63
+msgid "Database"
+msgstr "Datenbank"
+
+#: Areas\Admin\Views\Install\Index.cshtml:44
+msgid "Database information"
+msgstr "Datenbankinformationen"
+
+#: Areas\Admin\Views\Install\Index.cshtml:47
+msgid "Database type"
+msgstr "Datenbanktyp:"
+
+#: Areas\Admin\Views\Install\Index.cshtml:83
+msgid "database-password"
+msgstr "Datenbank-Passwort"
+
+#: Areas\Admin\Views\Install\Index.cshtml:78
+msgid "database-username"
+msgstr "Datenbank-Benutzername"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:147
+msgid "Date Format"
+msgstr "Datieren Sie Format"
+
+#: Views\Listing\Listing.cshtml:175
+msgid "Date Posted"
+msgstr "Datum der Verschickung"
+
+#: Areas\Admin\Views\Manage\SettingsLanguage.cshtml:17
+msgid "Default Language"
+msgstr "Standardsprache"
+
+#: Areas\Admin\Controllers\ManageController.cs:557
+msgid "Default language must be enabled first!"
+msgstr "Standard-Sprache muss zuerst aktiviert werden!"
+
+#: Views\Manage\Dashboard.cshtml:48
+#: Areas\Admin\Views\Listing\Categories.cshtml:23
+#: Areas\Admin\Views\Listing\Listings.cshtml:19
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:20
+#: Areas\Admin\Views\Manage\Users.cshtml:12
+msgid "Delete"
+msgstr "Löschen"
+
+#: Views\Manage\Dashboard.cshtml:82
+msgid "Deleted!"
+msgstr "Gelöscht!"
+
+#: Views\Listing\Listing.cshtml:55
+#: Views\Listing\ListingUpdate.cshtml:48
+#: Views\Listing\_ListingGridList.cshtml:40
+#: Views\Payment\Orders.cshtml:128
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:46
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:37
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:26
+#: Areas\Admin\Views\Listing\Listings.cshtml:69
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:49
+#: Areas\Admin\Views\Manage\Settings.cshtml:28
+#: Areas\Admin\Views\Payment\Order.cshtml:106
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:99
+msgid "Description"
+msgstr "Bezeichnung"
+
+#: Views\Listing\ListingUpdate.cshtml:49
+msgid "Description..."
+msgstr "Beschreibung:"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:90
+msgid "Design"
+msgstr "Entwurf"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:30
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Controllers\PaymentStripeController.cs:193
+msgid "Disconnnect to stripe successfully!"
+msgstr "Disconnnect erfolgreich zu stripe!"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:161
+msgid "Documentation about Date and Time Format."
+msgstr "Dokumentation über Datum und Uhrzeit-Format."
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:42
+msgid "e.g. Book"
+msgstr "z.B. Buch"
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:105
+msgid "e.g. Number of days"
+msgstr "z.B. Anzahl der Tage"
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:34
+msgid "e.g. Offer"
+msgstr "z.B. Angebot"
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:59
+msgid "e.g. Per day"
+msgstr "z.B. pro Tag"
+
+#: Views\Listing\Listing.cshtml:36
+#: Views\Manage\Dashboard.cshtml:47
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:15
+#: Areas\Admin\Views\Listing\Categories.cshtml:21
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:15
+#: Areas\Admin\Views\Listing\Listings.cshtml:15
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:15
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:15
+#: Areas\Admin\Views\Manage\Users.cshtml:57
+msgid "Edit"
+msgstr "Editieren"
+
+#: Models\AccountViewModels.cs:45
+#: Models\AccountViewModels.cs:52
+#: Models\AccountViewModels.cs:69
+#: Models\AccountViewModels.cs:94
+#: Models\AccountViewModels.cs:115
+#: Views\Account\Register.cshtml:46
+#: Areas\Admin\Views\Manage\Settings.cshtml:49
+#: Areas\Admin\Views\Manage\Settings.cshtml:51
+#: Areas\Admin\Views\Manage\Users.cshtml:39
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:56
+msgid "Email"
+msgstr "E-Mail"
+
+#: Views\Listing\ListingUpdate.cshtml:113
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:18
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:70
+msgid "Email Confirmation Required"
+msgstr "E-Mail-Bestätigung ist erforderlich"
+
+#: Areas\Admin\Views\Manage\Users.cshtml:40
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:67
+msgid "Email Confirmed"
+msgstr "E-Mail bestätigt."
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:25
+msgid "Email display name"
+msgstr "E-Mail-Anzeigename"
+
+#: Views\Account\ForgotPassword.cshtml:29
+msgid "Email Link"
+msgstr "E-Mail Link"
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:4
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:12
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:105
+msgid "Email Settings"
+msgstr "E-Mail-Einstellungen"
+
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:4
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:16
+msgid "Email Template Update"
+msgstr "E-Mail-Template-Update"
+
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:10
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:23
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:108
+msgid "Email Templates"
+msgstr "E-Mail-Vorlagen"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:34
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:37
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:143
+#: Areas\Admin\Views\Manage\Settings.cshtml:75
+#: Areas\Admin\Views\Manage\Settings.cshtml:96
+#: Areas\Admin\Views\Manage\Settings.cshtml:131
+#: Areas\Admin\Views\Manage\SettingsLanguage.cshtml:32
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: Views\Account\Register.cshtml:47
+#: Areas\Admin\Views\Install\Index.cshtml:29
+msgid "Enter email"
+msgstr "E-Mailadresse eintragen"
+
+#: Views\Account\Login.cshtml:24
+#: Views\Home\Contact.cshtml:25
+msgid "Enter Email"
+msgstr "E-Mailadresse eintragen"
+
+#: Views\Listing\ListingUpdate.cshtml:114
+msgid "Enter Email Address"
+msgstr "Gebe Sie Ihre Email Adressen ein"
+
+#: Views\Listing\ListingUpdate.cshtml:86
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:174
+msgid "Enter Location"
+msgstr "Standort eingeben"
+
+#: Views\Listing\ListingUpdate.cshtml:106
+msgid "Enter Phone Number"
+msgstr "Telefonnummer eingeben"
+
+#: Views\Listing\ListingUpdate.cshtml:44
+msgid "Enter Title"
+msgstr "Titel eingeben"
+
+#: Views\Account\VerifyCode.cshtml:12
+#: Views\Manage\VerifyPhoneNumber.cshtml:12
+msgid "Enter verification code"
+msgstr "Bestätigungscode eingeben"
+
+#: Areas\Admin\Views\Design\CodeStyle.cshtml:24
+msgid "Enter your custom css code here..."
+msgstr "Geben Sie hier benutzerdefinierte CSS-Code ein ..."
+
+#: Areas\Admin\Views\Design\CodeStyle.cshtml:21
+msgid "Enter your custom css styles below"
+msgstr "Geben Sie den benutzerdefinierte CSS-Stile unten an"
+
+#: Areas\Admin\Views\Design\CodeScript.cshtml:24
+msgid "Enter your custom javascript code here..."
+msgstr "Geben Sie den benutzerdefinierte Javascript-Code hier an..."
+
+#: Areas\Admin\Views\Design\CodeScript.cshtml:21
+msgid "Enter your custom javascript styles below"
+msgstr "Geben Sie den benutzerdefinierten JavaScript unten Stile an"
+
+#: Views\Account\ForgotPassword.cshtml:18
+msgid "Enter your email."
+msgstr "Geben sie ihre E-Mail Adresse ein"
+
+#: Views\Listing\ListingUpdate.cshtml:102
+msgid "Enter Your Full Name"
+msgstr "Geben Sie Ihren vollständigen Namen ein"
+
+#: Views\Shared\Error.cshtml:4
+msgid "Error"
+msgstr "Fehler"
+
+#: Views\Shared\Error.cshtml:29
+msgid "Error processing the page"
+msgstr "Fehler in der Verarbeitung der Seite"
+
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:101
+msgid "Expiration"
+msgstr "Gültigsdauer"
+
+#: Views\Manage\Index.cshtml:26
+msgid "External Logins"
+msgstr "Externe Logins"
+
+#: Areas\Admin\Views\Payment\Order.cshtml:158
+#: Areas\Admin\Views\Payment\Order.cshtml:162
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+#: Controllers\ManageController.cs:271
+msgid "Failed to verify phone"
+msgstr "Telefonnummer konnte nicht überprüft werden"
+
+#: Views\Manage\Dashboard.cshtml:84
+#: Views\Manage\Dashboard.cshtml:88
+#: Views\Payment\Orders.cshtml:182
+#: Views\Payment\Orders.cshtml:186
+msgid "Failed!"
+msgstr "Gescheitert!"
+
+#: Areas\Admin\Views\Design\Appearance.cshtml:36
+msgid "Favicon"
+msgstr "Favicon"
+
+#: Views\Manage\UserProfile.cshtml:69
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:50
+msgid "Female"
+msgstr "Weiblich"
+
+#: Models\AccountViewModels.cs:83
+#: Views\Manage\UserProfile.cshtml:43
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:30
+msgid "First Name"
+msgstr "Vorname"
+
+#: Views\Account\ForgotPasswordConfirmation.cshtml:2
+msgid "Forgot Password Confirmation"
+msgstr "Passwort Bestätigung"
+
+#: Views\Account\ForgotPassword.cshtml:3
+#: Views\Account\Login.cshtml:41
+msgid "Forgot your password?"
+msgstr "Haben Sie Ihr Passwort vergessen?"
+
+#: Controllers\PaymentController.cs:322
+#: Views\Listing\Listings.cshtml:77
+#: Views\Listing\_ListingPayment.cshtml:25
+#: Views\Payment\Payment.cshtml:44
+msgid "From"
+msgstr "Von"
+
+#: Views\Payment\Payment.cshtml:42
+msgid "From Date"
+msgstr "Vom !date"
+
+#: Areas\Admin\Views\Shared\_NavigationTop.cshtml:13
+#: Areas\Admin\Views\Shared\_NavigationTop.cshtml:29
+msgid "Frontend"
+msgstr "vorderes Ende"
+
+#: Views\Listing\ListingUpdate.cshtml:101
+msgid "Full Name"
+msgstr "Vollständiger Name"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:102
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: Views\Listing\Listings.cshtml:108
+msgid "Grid"
+msgstr "Gitternetz Grid"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:92
+msgid "Group"
+msgstr "Gruppe"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:157
+msgid "Guide"
+msgstr "Anleitung"
+
+#: Areas\Admin\Views\Listing\Categories.cshtml:44
+msgid "Here you can add categories and subcategories. There shall always be one category for each listing."
+msgstr "Hier können Sie Kategorien und Unterkategorien hinzufügen. Es wird immer eine Kategorie für jede Auflistung dargestellt."
+
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:41
+msgid "Here you can define custom fields for listings in different categories."
+msgstr "Hier können Sie benutzerdefinierte Felder für Einträge in verschiedenen Kategorien definieren."
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:41
+msgid "Here you can define the listing types like offer, request, etc. This will be supported and configured in different categories."
+msgstr "Hier können Sie die Auflistungstypen wie Angebot, Anfrage, etc. definieren. Dies kann in verschiedenen Kategorien konfiguriert werden."
+
+#: Areas\Admin\Views\Listing\Listings.cshtml:39
+msgid "Here you can manage all the listings in the marketplace."
+msgstr "Hier können Sie alle Angebote für Ihren Markt verwalten."
+
+#: Areas\Admin\Views\Payment\Order.cshtml:71
+msgid "Here you can manage all the orders, you can cancel or accept orders on behalf of the users."
+msgstr "Hier können Sie alle Aufträge verwalten, stornieren oder Bestellungen Nutzer einsehen."
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:70
+msgid "Here you can manage all the plugins. To add/develop a new plugin, please read the documentation."
+msgstr "Hier können Sie alle Plugins verwalten. Hinzufügen / ein neues Plugin entwickeln, lesen Sie in der Dokumentation."
+
+#: Areas\Admin\Views\Payment\Transaction.cshtml:19
+msgid "Here you can view all the transactions. Transactions is supported only when payment plugin is installed and payment method is configured."
+msgstr "Hier können Sie alle Transaktionen anzeigen. Transaktionen wird nur unterstützt, wenn das Zahlungs-Plugin installiert und die Zahlungsmethode konfiguriert ist."
+
+#: Controllers\AccountController.cs:247
+msgid "Hi, Welcome to {0}! I am happy to assist you if you has any questions."
+msgstr "Hallo, Willkommen zu {0} ! Ich freue mich Ihnen zu helfen, wenn Sie irgendwelche Fragen haben."
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:32
+msgid "Host"
+msgstr "Rechnername"
+
+#: Views\Account\Register.cshtml:61
+msgid "I accept the"
+msgstr "Ich akzeptiere das"
+
+#: Areas\Admin\Views\Install\Index.cshtml:89
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:21
+msgid "Install"
+msgstr "Installieren"
+
+#: Areas\Admin\Views\Install\Index.cshtml:13
+msgid "Install language"
+msgstr "Installieren Sie die Sprache"
+
+#: Areas\Admin\Views\Install\Index.cshtml:9
+msgid "Installation"
+msgstr "Ersteinrichtung"
+
+#: Areas\Admin\Views\Install\Index.cshtml:2
+msgid "Installation - BeYourMarket - Peer to Peer MarketPlace"
+msgstr "Installation - BeYourMarket - Peer-to-Peer Marketplace"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:106
+msgid "Installed"
+msgstr "Installiert"
+
+#: Areas\Admin\Views\Install\Index.cshtml:112
+msgid "Installing..."
+msgstr "Installieren..."
+
+#: Controllers\AccountController.cs:178
+msgid "Invalid code."
+msgstr "Ungültiger Code."
+
+#: Controllers\AccountController.cs:135
+msgid "Invalid login attempt."
+msgstr "Ungültige Anmeldeversuch."
+
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:108
+msgid "IP"
+msgstr "IP"
+
+#: Areas\Admin\Views\Design\CodeScript.cshtml:10
+#: Areas\Admin\Views\Design\CodeScript.cshtml:20
+msgid "Javascript Code Editor"
+msgstr "Javascript-Code-Editor"
+
+#: Views\Account\Register.cshtml:64
+msgid "Join"
+msgstr "Registrieren"
+
+#: Views\Listing\Listing.cshtml:263
+#: Views\Listing\Profile.cshtml:28
+#: Views\Listing\Review.cshtml:33
+msgid "Joined since"
+msgstr "Registriert seit"
+
+#: Areas\Admin\Views\Manage\SettingsLanguage.cshtml:4
+#: Areas\Admin\Views\Manage\SettingsLanguage.cshtml:11
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:111
+msgid "Language Settings"
+msgstr "Spracheinstellungen"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:131
+msgid "Last Access Date"
+msgstr "Letzter Zugriff am"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:138
+msgid "Last Access IP"
+msgstr "Letzter Zugriff IP"
+
+#: Models\AccountViewModels.cs:86
+#: Views\Manage\UserProfile.cshtml:49
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:37
+msgid "Last Name"
+msgstr "Nachname"
+
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:50
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:122
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:40
+msgid "Last Updated"
+msgstr "Zuletzt aktualisiert"
+
+#: Views\Home\Index.cshtml:33
+msgid "Latest Listings"
+msgstr "Neueste Anzeigen"
+
+#: Views\Account\Login.cshtml:34
+msgid "Let me in"
+msgstr "Lass mich rein"
+
+#: Views\Listing\Listings.cshtml:109
+msgid "List"
+msgstr "Liste"
+
+#: Views\Listing\ListingUpdate.cshtml:34
+msgid "Listing Details"
+msgstr "Listing Details"
+
+#: Views\Listing\Listing.cshtml:183
+msgid "Listing ID"
+msgstr "Angebots-ID"
+
+#: Controllers\ListingController.cs:595
+msgid "Listing is updated!"
+msgstr "Eintrag wird aktualisiert!"
+
+#: Controllers\ListingController.cs:868
+msgid "Listing review is not allowed!"
+msgstr "Bewertung Listing ist nicht erlaubt!"
+
+#: Views\Listing\Listing.cshtml:159
+#: Views\Listing\Listings.cshtml:55
+#: Views\Shared\_ListingTypes.cshtml:6
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:44
+#: Areas\Admin\Views\Listing\Listings.cshtml:66
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:16
+#: Areas\Admin\Views\Shared\_ListingTypes.cshtml:5
+msgid "Listing Type"
+msgstr "Angebotstyp"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:122
+msgid "Listing type is deleted."
+msgstr "Eintragstyp wird gelöscht."
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:4
+msgid "Listing Type Update"
+msgstr "Eintrag Typ-Update"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:10
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:35
+msgid "Listing Types"
+msgstr "Listing Typen"
+
+#: Views\Listing\ListingUpdate.cshtml:4
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:4
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:16
+msgid "Listing Update"
+msgstr "Eintrag aktualisieren"
+
+#: Views\Listing\Listings.cshtml:9
+#: Views\Listing\Listings.cshtml:116
+#: Views\Listing\Profile.cshtml:43
+#: Views\Shared\_DashBoardSide.cshtml:10
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:10
+#: Areas\Admin\Views\Listing\Listings.cshtml:10
+#: Areas\Admin\Views\Listing\Listings.cshtml:33
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:17
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:76
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:80
+msgid "Listings"
+msgstr "Angebote"
+
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:59
+msgid "Listings by category"
+msgstr "Anzeigen nach Kategorie"
+
+#: Views\Listing\Listing.cshtml:167
+#: Views\Listing\Listings.cshtml:70
+#: Views\Listing\Listings.cshtml:71
+#: Views\Listing\ListingUpdate.cshtml:83
+#: Views\Listing\ListingUpdate.cshtml:85
+#: Views\Listing\_ListingGridList.cshtml:43
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:170
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:172
+msgid "Location"
+msgstr "Ort"
+
+#: Views\Shared\Lockout.cshtml:4
+msgid "Locked Out"
+msgstr "Ausgesperrt!"
+
+#: Views\Shared\Lockout.cshtml:8
+msgid "Locked Out."
+msgstr "Ausgesperrt!"
+
+#: Views\Shared\_LoginPartial.cshtml:85
+#: Views\Shared\_NavigationSide.cshtml:60
+msgid "Log in"
+msgstr "Einloggen"
+
+#: Views\Account\_ExternalLoginsListPartial.cshtml:22
+msgid "Log in using your {0} account"
+msgstr "Melden Sie sich mit Ihrem {0} Konto an"
+
+#: Views\Shared\_LoginPartial.cshtml:71
+#: Areas\Admin\Views\Shared\_NavigationTop.cshtml:30
+msgid "Log off"
+msgstr "Abmelden"
+
+#: Views\Account\Login.cshtml:5
+#: Views\Account\Register.cshtml:69
+#: Areas\Admin\Views\Install\Index.cshtml:77
+msgid "Login"
+msgstr "Anmeldung"
+
+#: Views\Account\ExternalLoginFailure.cshtml:2
+msgid "Login Failure"
+msgstr "Anmeldungsfehler"
+
+#: Views\Listing\ListingUpdate.cshtml:26
+msgid "Login here"
+msgstr "Hier anmelden"
+
+#: Views\Account\Login.cshtml:13
+msgid "Login to your account"
+msgstr "Anmeldung zu deinem Benutzerkonto"
+
+#: Areas\Admin\Views\Design\Appearance.cshtml:22
+msgid "Logo"
+msgstr "Logo"
+
+#: Views\Manage\UserProfile.cshtml:66
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:47
+msgid "Male"
+msgstr "Männlich"
+
+#: Views\Manage\Index.cshtml:3
+#: Views\Manage\Index.cshtml:29
+msgid "Manage"
+msgstr "Verwalten"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:82
+msgid "Manage Categories"
+msgstr "Kategorien"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:83
+msgid "Manage Listing Types"
+msgstr "Verwalten Listing Typen"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:84
+msgid "Manage Listings"
+msgstr "Angebotsverwaltung"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:142
+msgid "Manage Pages"
+msgstr "Seiten verwalten"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:151
+msgid "Manage Plugins"
+msgstr "Plugins verwalten"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:132
+msgid "Manage Users"
+msgstr "Benutzer verwalten"
+
+#: Views\Listing\Listing.cshtml:216
+msgid "Map"
+msgstr "Karte"
+
+#: Views\Listing\Listing.cshtml:58
+msgid "Maps"
+msgstr "Google Maps"
+
+#: Views\Manage\Messages.cshtml:44
+msgid "Mark as read"
+msgstr "Als gelesen markieren"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:137
+msgid "Max. Review per day"
+msgstr "Max. Bewertung pro Tag"
+
+#: Views\Home\Contact.cshtml:28
+#: Views\Listing\_ListingContactModal.cshtml:26
+msgid "Message"
+msgstr "Nachricht"
+
+#: Controllers\ManageController.cs:531
+msgid "Message is sent."
+msgstr "Nachricht wird gesendet."
+
+#: Controllers\ListingController.cs:726
+msgid "Message sent succesfully!"
+msgstr "Nachricht erfolgreich gesendet!"
+
+#: Areas\Admin\Controllers\ManageController.cs:442
+msgid "Message sent to {0} succesfully!"
+msgstr "Nachricht gesendet {0} erfolgreich!"
+
+#: Views\Home\Contact.cshtml:29
+msgid "Message..."
+msgstr "Nachricht"
+
+#: Views\Manage\Message.cshtml:5
+#: Views\Manage\Message.cshtml:21
+#: Views\Manage\Messages.cshtml:7
+#: Views\Manage\Messages.cshtml:26
+#: Views\Shared\_DashBoardSide.cshtml:11
+#: Views\Shared\_LoginPartial.cshtml:23
+msgid "Messages"
+msgstr "Nachrichten"
+
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:37
+msgid "Minimum Transaction fee"
+msgstr "Mindesttransaktionsgebühr"
+
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:23
+msgid "Minimum transaction size"
+msgstr "Mindesttransaktionsgröße"
+
+#: Views\Manage\Dashboard.cshtml:18
+msgid "My Listings"
+msgstr "Meine Objekte"
+
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:19
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:62
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:40
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:67
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:32
+#: Areas\Admin\Views\Manage\Settings.cshtml:21
+msgid "Name"
+msgstr "Name"
+
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:90
+msgid "New listings"
+msgstr "Neue einträge"
+
+#: Models\ManageViewModels.cs:33
+#: Models\ManageViewModels.cs:52
+msgid "New password"
+msgstr "Neues Passwort"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:80
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: Views\Listing\Listing.cshtml:110
+msgid "Next"
+msgstr "Nächste"
+
+#: App_Code\RazorHelper.cshtml:7
+msgid "No"
+msgstr "Nein"
+
+#: Views\Payment\Orders.cshtml:172
+#: Areas\Admin\Views\Payment\Order.cshtml:148
+msgid "No!"
+msgstr "Nein!"
+
+#: Views\Manage\Dashboard.cshtml:73
+#: Areas\Admin\Views\Listing\Categories.cshtml:107
+#: Areas\Admin\Views\Listing\Listings.cshtml:98
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:108
+#: Areas\Admin\Views\Manage\Users.cshtml:83
+msgid "No, cancel please!"
+msgstr "Nein, abbrechen bitte!"
+
+#: Views\Listing\Listings.cshtml:88
+msgid "Only show listings with photos"
+msgstr "Nur Anzeigen mit Fotos"
+
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:73
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:47
+msgid "Options"
+msgstr "Optionen"
+
+#: Controllers\PaymentController.cs:190
+msgid "Order %0 - %1 - Total Price %2 %3. <a href=\\"%4\\">See Details</a>"
+msgstr "Bestellen% 0 -% 1 - Gesamtpreis% 2% 3. <a href=\\"%4\\"> Details ansehen </a>"
+
+#: Views\Payment\Orders.cshtml:130
+#: Areas\Admin\Views\Payment\Order.cshtml:110
+msgid "Order ID"
+msgstr "Bestellnummer"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Controllers\PaymentStripeController.cs:144
+msgid "Order Requested - %0 - Total Price %1 %2. <a href=\\"%3\\">See Details</a>"
+msgstr "Mitbestellt -% 0 - Gesamtpreis% 1% 2. <a href=\\"%3\\"> Details ansehen </a>"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:75
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:96
+msgid "Order Type"
+msgstr "Auftragsart"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:77
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:103
+msgid "Order Type Label"
+msgstr "Bestellen Typenschild"
+
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:51
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:101
+msgid "Ordering"
+msgstr "Sortierung"
+
+#: Views\Payment\Orders.cshtml:7
+#: Views\Payment\Orders.cshtml:87
+#: Views\Payment\Orders.cshtml:95
+#: Views\Shared\_DashBoardSide.cshtml:14
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:27
+#: Areas\Admin\Views\Payment\Order.cshtml:7
+#: Areas\Admin\Views\Payment\Order.cshtml:65
+#: Areas\Admin\Views\Payment\Order.cshtml:77
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:120
+msgid "Orders"
+msgstr "Bestellungen"
+
+#: Views\Shared\_CategoryCustomFields.cshtml:6
+msgid "Other Info"
+msgstr "Andere Information"
+
+#: Views\Listing\Listings.cshtml:141
+msgid "Page {0} of {1}"
+msgstr "{0/} {1}Seite 12 von 12 {/1}"
+
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:136
+msgid "Pages"
+msgstr "Seiten"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:21
+#: Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:21
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\bin\Views\Transaction.cshtml:21
+msgid "Paid"
+msgstr "Bezahlt"
+
+#: Models\AccountViewModels.cs:58
+#: Models\AccountViewModels.cs:75
+#: Models\AccountViewModels.cs:100
+#: Views\Account\Login.cshtml:28
+#: Views\Account\Register.cshtml:50
+#: Views\Account\Register.cshtml:51
+#: Views\Listing\ListingUpdate.cshtml:119
+#: Views\Listing\ListingUpdate.cshtml:120
+#: Views\Manage\Index.cshtml:13
+#: Areas\Admin\Views\Install\Index.cshtml:32
+#: Areas\Admin\Views\Install\Index.cshtml:33
+#: Areas\Admin\Views\Install\Index.cshtml:82
+msgid "Password"
+msgstr "Passwort"
+
+#: Views\Payment\Payment.cshtml:7
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:77
+msgid "Payment"
+msgstr "Zahlung"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:80
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:89
+msgid "Payment Enabled"
+msgstr "Zahlung Aktiviert"
+
+#: Views\Payment\PaymentSetting.cshtml:2
+#: Views\Payment\PaymentSetting.cshtml:17
+#: Views\Payment\PaymentSetting.cshtml:21
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:3
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:13
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:126
+msgid "Payment Settings"
+msgstr "Zahlungseinstellungen"
+
+#: Views\Shared\_DashBoardSide.cshtml:16
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:117
+msgid "Payments"
+msgstr "Zahlungen"
+
+#: Views\Payment\PaymentSetting.cshtml:25
+msgid "Payout information"
+msgstr "Auszahlungsinformationen"
+
+#: Controllers\PaymentController.cs:161
+#: Views\Payment\Orders.cshtml:45
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:25
+#: Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:25
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\bin\Views\Transaction.cshtml:25
+#: Areas\Admin\Views\Payment\Order.cshtml:40
+msgid "Pending"
+msgstr "In Erwartung"
+
+#: Models\ManageViewModels.cs:65
+#: Views\Listing\ListingUpdate.cshtml:105
+#: Views\Manage\AddPhoneNumber.cshtml:3
+#: Views\Manage\UserProfile.cshtml:56
+#: Areas\Admin\Views\Manage\Users.cshtml:41
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:73
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: Areas\Admin\Views\Manage\Users.cshtml:42
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:91
+msgid "Phone Number Confirmed"
+msgstr "Telefonnummer bestätigt"
+
+#: Views\Listing\_ListingGridList.cshtml:32
+msgid "Picture"
+msgstr "Bild"
+
+#: Views\Listing\Listing.cshtml:82
+msgid "Pictures"
+msgstr "Bilder"
+
+#: Views\Account\ForgotPasswordConfirmation.cshtml:16
+msgid "Please check your email to reset your password."
+msgstr "Überprüfen Sie Ihre E-Mail um Ihre Passwort zurückzusetzen."
+
+#: Views\Account\ResetPasswordConfirmation.cshtml:15
+msgid "Please click here to log in"
+msgstr "Bitte klicken Sie hier, um sich in"
+
+#: Views\Listing\Review.cshtml:70
+#: Views\Listing\_ListingReviewModal.cshtml:25
+msgid "Please Rate"
+msgstr "Bitte bewerten Sie:"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Controllers\PaymentStripeController.cs:383
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Widget.Disqus\Controllers\DisqusController.cs:79
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Widget.GoogleAnalytics\Controllers\GoogleAnalyticsController.cs:65
+msgid "Plugin updated!"
+msgstr "Plugin aktualisiert!"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:54
+msgid "PluginFileName"
+msgstr "PluginFileName"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:10
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:64
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:148
+msgid "Plugins"
+msgstr "Plug-ins"
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:39
+msgid "Port"
+msgstr "Anschluß"
+
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:153
+msgid "Premium"
+msgstr "Bonus"
+
+#: Views\Listing\Listing.cshtml:106
+msgid "Previous"
+msgstr "Vorheriger"
+
+#: Views\Listing\Listing.cshtml:150
+#: Views\Listing\Listings.cshtml:75
+#: Views\Listing\ListingUpdate.cshtml:55
+#: Views\Listing\ListingUpdate.cshtml:57
+#: Views\Listing\_ListingGridList.cshtml:41
+#: Views\Payment\Orders.cshtml:125
+#: Views\Payment\Payment.cshtml:63
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:94
+#: Areas\Admin\Views\Payment\Order.cshtml:104
+msgid "Price"
+msgstr "Preis"
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:51
+msgid "Price Enabled"
+msgstr "Preis Aktiviert"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:70
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:57
+msgid "Price Unit Label"
+msgstr "Preiseinheit Etikett"
+
+#: Views\Listing\Profile.cshtml:7
+#: Views\Manage\UserProfile.cshtml:3
+#: Views\Manage\UserProfile.cshtml:22
+#: Views\Manage\UserProfile.cshtml:29
+#: Views\Shared\_DashBoardSide.cshtml:19
+msgid "Profile"
+msgstr "Profil"
+
+#: Views\Manage\UserProfile.cshtml:74
+msgid "Profile Picture"
+msgstr "Profilbild"
+
+#: Areas\Admin\Views\Payment\Order.cshtml:101
+msgid "Provider"
+msgstr "Anbieter"
+
+#: Views\Listing\ListingUpdate.cshtml:17
+msgid "Publish a listing (it's 100% free)"
+msgstr "Veröffentlichen Sie einen Eintrag (es ist 100% kostenlos)"
+
+#: Views\Listing\ListingUpdate.cshtml:129
+msgid "Publish Listing"
+msgstr "veröffentlichen Listing"
+
+#: Views\Manage\Dashboard.cshtml:28
+#: Views\Shared\_Layout.cshtml:74
+#: Views\Shared\_LoginPartial.cshtml:63
+#: Views\Shared\_NavigationSide.cshtml:70
+#: Views\Shared\_NavigationSide.cshtml:84
+msgid "Publish new listing"
+msgstr "Veröffentlichen neues Angebot"
+
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:48
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:62
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: Views\Listing\ListingUpdate.cshtml:99
+msgid "Publisher's Info"
+msgstr "Publisher Info"
+
+#: Views\Payment\Orders.cshtml:127
+#: Areas\Admin\Views\Payment\Order.cshtml:108
+msgid "Quantity"
+msgstr "Menge"
+
+#: Areas\Admin\Views\Payment\Order.cshtml:102
+msgid "Receiver"
+msgstr "Hörer"
+
+#: Views\Listing\Listings.cshtml:44
+msgid "Refine Search"
+msgstr "suchen"
+
+#: Views\Account\Register.cshtml:3
+msgid "Register"
+msgstr "Registrieren"
+
+#: Views\Account\Login.cshtml:39
+msgid "Register as a new user"
+msgstr "Registrieren Sie sich als neuer Benutzer"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:117
+msgid "Register Date"
+msgstr "Registrierungsdatum"
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:124
+msgid "Register IP"
+msgstr "Registrieren IP"
+
+#: Views\Account\Login.cshtml:32
+msgid "Remeber me?"
+msgstr "Erinnere mich"
+
+#: Models\AccountViewModels.cs:61
+msgid "Remember me?"
+msgstr "Merken"
+
+#: Models\AccountViewModels.cs:36
+msgid "Remember this browser?"
+msgstr "Denken Sie daran, diesen Browser?"
+
+#: Views\Manage\Message.cshtml:78
+msgid "Reply here..."
+msgstr "Antwort hier ..."
+
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:74
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:58
+msgid "Required"
+msgstr "Erforderlich"
+
+#: Views\Account\ResetPassword.cshtml:42
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: Views\Account\ResetPassword.cshtml:3
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
+
+#: Views\Account\ResetPasswordConfirmation.cshtml:2
+msgid "Reset password confirmation"
+msgstr "Kennwort zurücksetzen Bestätigung"
+
+#: Views\Listing\Review.cshtml:22
+#: Views\Listing\_ListingReviewModal.cshtml:10
+#: Views\Listing\_ListingReviewModal.cshtml:57
+#: Views\Payment\Orders.cshtml:35
+msgid "Review"
+msgstr "Überprüfen"
+
+#: Views\Listing\Listing.cshtml:62
+#: Views\Listing\Review.cshtml:5
+#: Views\Listing\_ListingCard.cshtml:26
+#: Views\Listing\_ListingReview.cshtml:11
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: Views\Manage\UserProfile.cshtml:81
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:76
+#: Areas\Admin\Views\Design\Appearance.cshtml:44
+#: Areas\Admin\Views\Design\CodeScript.cshtml:34
+#: Areas\Admin\Views\Design\CodeStyle.cshtml:34
+#: Areas\Admin\Views\Listing\Categories.cshtml:70
+#: Areas\Admin\Views\Listing\CategoryUpdate.cshtml:58
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:90
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:112
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:195
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:63
+#: Areas\Admin\Views\Manage\Settings.cshtml:166
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:68
+#: Areas\Admin\Views\Manage\SettingsLanguage.cshtml:42
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:146
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:45
+msgid "Save"
+msgstr "Sichern"
+
+#: Views\Home\Index.cshtml:25
+#: Views\Manage\Dashboard.cshtml:24
+#: Views\Manage\Messages.cshtml:34
+msgid "Search"
+msgstr "Suchen"
+
+#: Views\Shared\_Layout.cshtml:62
+msgid "Search for..."
+msgstr "Suche nach"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:42
+msgid "Search PlaceHolder"
+msgstr "Suchen Placeholder"
+
+#: Views\Listing\Listings.cshtml:84
+msgid "Search text"
+msgstr "Suchtext"
+
+#: Views\Listing\Listings.cshtml:83
+msgid "Search Text"
+msgstr "Suche Text"
+
+#: Views\Manage\Dashboard.cshtml:23
+msgid "Search your listings..."
+msgstr "Suchen Sie Ihre Angebote ..."
+
+#: Views\Manage\Messages.cshtml:33
+msgid "Search your mails..."
+msgstr "Suchen Sie Ihre E-Mails ..."
+
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:75
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:70
+msgid "Searchable"
+msgstr "durchsuchbare"
+
+#: Views\Home\Index.cshtml:33
+msgid "See All Listings"
+msgstr "Alle Anzeigen"
+
+#: Views\Shared\_LoginPartial.cshtml:49
+msgid "See all messages"
+msgstr "Alle Meldungen"
+
+#: Views\Account\SendCode.cshtml:15
+msgid "Select Two-Factor Authentication Provider:"
+msgstr "Zwei-Faktor-Authentifizierungsanbieter auswählen:"
+
+#: Views\Account\SendCode.cshtml:3
+#: Views\Home\Contact.cshtml:34
+#: Views\Listing\_ListingContactModal.cshtml:28
+msgid "Send"
+msgstr "Senden"
+
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:43
+msgid "Send Copy"
+msgstr "Seite kopieren"
+
+#: Views\Manage\Message.cshtml:79
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+#: Views\Listing\Review.cshtml:73
+#: Views\Listing\_ListingReviewModal.cshtml:28
+msgid "Send Review"
+msgstr "Überblick senden"
+
+#: Areas\Admin\Views\Install\Index.cshtml:58
+msgid "Server domain/IP"
+msgstr "Server-Domäne / IP"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:4
+#: Areas\Admin\Views\Manage\Settings.cshtml:12
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:99
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: Views\Listing\Listing.cshtml:277
+msgid "Share"
+msgstr "Aktie"
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:81
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:69
+msgid "Shipping Enabled"
+msgstr "Versand Aktiviert"
+
+#: Areas\Admin\Views\Listing\Listings.cshtml:70
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:74
+msgid "Show Email"
+msgstr "anzeigen E-Mail"
+
+#: Views\Listing\ListingUpdate.cshtml:109
+msgid "Show Phone"
+msgstr "Telefon zeigen"
+
+#: Views\Manage\Messages.cshtml:118
+msgid "Showing {0} - {1} of {2}"
+msgstr "Zeige {0} - {1} von {2}"
+
+#: Views\Listing\_ListingContactModal.cshtml:40
+#: Views\Listing\_ListingReviewModal.cshtml:42
+msgid "Sign in"
+msgstr "Anmelden"
+
+#: Views\Listing\_ListingContactModal.cshtml:37
+msgid "Sign in to contact the owner"
+msgstr "Melden Sie sich an den Eigentümer zu kontaktieren"
+
+#: Views\Listing\_ListingReviewModal.cshtml:39
+msgid "Sign in to review"
+msgstr "Melden Sie sich zu überprüfen"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:116
+msgid "Signup Text"
+msgstr "Anmelden Text"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:35
+msgid "Slogan"
+msgstr "SLOGAN"
+
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:44
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:44
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:38
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:29
+msgid "Slug"
+msgstr "Titelform"
+
+#: Areas\Admin\Controllers\ContentPageController.cs:182
+msgid "Slug {0} already exists"
+msgstr "Slug {0} existiert bereits"
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:53
+msgid "SMTP Password"
+msgstr "SMTP-Passwort"
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:46
+msgid "SMTP User"
+msgstr "SMTP-Benutzer"
+
+#: Areas\Admin\Views\Manage\SettingsEmail.cshtml:60
+msgid "SSL enabled"
+msgstr "SSL aktiviert"
+
+#: Views\Payment\Orders.cshtml:112
+#: Areas\Admin\Views\Payment\Order.cshtml:94
+msgid "Status"
+msgstr "Stellenwert"
+
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:37
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:36
+msgid "Subject"
+msgstr "Gegenstand"
+
+#: Views\Manage\VerifyPhoneNumber.cshtml:24
+msgid "Submit"
+msgstr "absenden"
+
+#: Views\Payment\Orders.cshtml:48
+#: Areas\Admin\Views\Payment\Order.cshtml:43
+msgid "Success"
+msgstr "Erfolg"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:94
+msgid "SystemName"
+msgstr "Systemnamen"
+
+#: Views\Account\Register.cshtml:61
+msgid "Terms & Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+#: Areas\Admin\Views\Manage\EmailTemplateUpdate.cshtml:74
+msgid "Test Send"
+msgstr "Test-Send"
+
+#: Areas\Admin\Controllers\ManageController.cs:437
+msgid "Testing"
+msgstr "Test"
+
+#: Views\Account\ConfirmEmail.cshtml:15
+msgid "Thank you for confirming your email."
+msgstr "Vielen Dank für Ihre E-Mail-Bestätigung."
+
+#: Controllers\ListingController.cs:850
+#: Controllers\ListingController.cs:939
+msgid "Thanks for your feedback!"
+msgstr "Vielen Dank für Ihr Feedback!"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Controllers\PaymentStripeController.cs:153
+msgid "Thanks for your order! You payment will not be charged until the provider accepted your request."
+msgstr "Danke für deine Bestellung! Sie Zahlung wird nicht belastet, bis der Anbieter Ihre Anfrage akzeptiert."
+
+#: Models\AccountViewModels.cs:73
+#: Models\AccountViewModels.cs:98
+#: Models\ManageViewModels.cs:31
+#: Models\ManageViewModels.cs:50
+msgid "The {0} must be at least {2} characters long."
+msgstr "Die {0} muss mindestens {2} Zeichen lang sein ."
+
+#: Areas\Admin\Controllers\ListingController.cs:704
+msgid "The category has been deleted."
+msgstr "Die Kategorie wurde gelöscht."
+
+#: Areas\Admin\Controllers\ListingController.cs:666
+msgid "The listing has been deleted."
+msgstr "Die Auflistung wurde gelöscht."
+
+#: Areas\Admin\Controllers\ListingController.cs:688
+msgid "The listing type has been deleted."
+msgstr "Der Aufzählungstyp wurde gelöscht."
+
+#: Models\ManageViewModels.cs:38
+#: Models\ManageViewModels.cs:57
+msgid "The new password and confirmation password do not match."
+msgstr "Das neue Passwort und Bestätigung Passwort stimmen nicht überein."
+
+#: Controllers\PaymentController.cs:201
+msgid "The order is %0."
+msgstr "Der Auftrag ist% 0."
+
+#: Views\Shared\Error.cshtml:22
+msgid "The page you were looking for doesn't exist."
+msgstr "Die Seite, die Sie suchen existiert nicht."
+
+#: Models\AccountViewModels.cs:80
+#: Models\AccountViewModels.cs:105
+msgid "The password and confirmation password do not match."
+msgstr "Das Passwort und Bestätigung Passwort stimmen nicht überein."
+
+#: Controllers\PaymentController.cs:294
+msgid "The provider has not setup the payment option for {0} yet, please contact the provider."
+msgstr "Der Anbieter hat keine Einrichtung die Zahlungsoption für {0} vorhanden, bitte den Anbieter kontaktieren."
+
+#: Controllers\PaymentController.cs:281
+msgid "The provider has not setup the payment option yet, please contact the provider."
+msgstr "Der Anbieter hat keine Einrichtung die Zahlungsoption noch, den Provider wenden Sie sich bitte."
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:81
+#: Areas\Admin\Views\Manage\Settings.cshtml:83
+msgid "Theme"
+msgstr "Thema"
+
+#: Views\Listing\_ListingGridList.cshtml:28
+#: Views\Payment\Orders.cshtml:102
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:40
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:63
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Views\TransactionOverview.cshtml:31
+#: Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:40
+#: Plugins\Plugin.Payment.Stripe\Views\Transaction.cshtml:63
+#: Plugins\Plugin.Payment.Stripe\Views\TransactionOverview.cshtml:31
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\bin\Views\Transaction.cshtml:40
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\bin\Views\Transaction.cshtml:63
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\bin\Views\TransactionOverview.cshtml:31
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:36
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:54
+#: Areas\Admin\Views\Listing\Listings.cshtml:52
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:54
+#: Areas\Admin\Views\Manage\EmailTemplates.cshtml:28
+#: Areas\Admin\Views\Payment\Order.cshtml:84
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:75
+msgid "There are no items to display."
+msgstr "Keine Items anzuzeigen"
+
+#: Views\Shared\_LoginPartial.cshtml:44
+msgid "There are no new messages"
+msgstr "Es gibt keine neuen Nachrichten"
+
+#: Controllers\ListingController.cs:186
+#: Controllers\ListingController.cs:377
+#: Areas\Admin\Controllers\ListingController.cs:390
+#: Areas\Admin\Controllers\ListingController.cs:490
+msgid "There are not categories available yet."
+msgstr "Es gibt keine Kategorien vorhanden."
+
+#: Controllers\ListingController.cs:448
+msgid "There are not listing types available yet."
+msgstr "Es gibt keine Auflistung Typen vorhanden."
+
+#: Views\Listing\_ListingReview.cshtml:38
+msgid "There is no review yet."
+msgstr "Es gibt noch keinen Beitrag."
+
+#: Views\Shared\Lockout.cshtml:9
+msgid "This account has been locked out, please try again later."
+msgstr "Dieses Konto wurde gesperrt wurde, bitte versuchen Sie es später noch einmal."
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:118
+msgid "This is an info text that can be shown to users in the signup page. There you can give the users instructions for signing up, information like where to get an invite, etc. By default there are no instructions."
+msgstr "Dies ist ein Infotext, der den Benutzern in der Anmeldeseite angezeigt werden kann. Dort können Sie den Benutzer Anweisungen für die Anmeldung, Informationen wie, wo ein zu erhalten einladen usw. standardmäßig gibt es keine Anweisungen."
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:111
+msgid "This is the content of the actual agreement that the user needs to accept."
+msgstr "Dies ist der Inhalt des eigentlichen Vereinbarung, dass der Benutzer zu akzeptieren muss."
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:104
+msgid "This text will be shown next to a checkbox in the checkout form"
+msgstr "Dieser Text wird in der Kasse Form einer Checkbox dargestellt als nächstes"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:154
+msgid "Time Format"
+msgstr "Zeitformat"
+
+#: Views\Listing\ListingUpdate.cshtml:43
+#: Views\Listing\_ListingGridList.cshtml:38
+#: Views\Payment\Orders.cshtml:123
+#: Areas\Admin\Views\ContentPage\ContentPages.cshtml:45
+#: Areas\Admin\Views\ContentPage\ContentPageUpdate.cshtml:30
+#: Areas\Admin\Views\Listing\Listings.cshtml:68
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:42
+#: Areas\Admin\Views\Payment\Order.cshtml:99
+msgid "Title"
+msgstr "Titel"
+
+#: Controllers\PaymentController.cs:322
+#: Views\Listing\Listings.cshtml:78
+#: Views\Listing\_ListingPayment.cshtml:28
+#: Views\Payment\Payment.cshtml:51
+msgid "To"
+msgstr "Bis"
+
+#: Areas\Admin\Views\Install\Index.cshtml:18
+msgid "To complete this wizard, you must know some information regarding your database server. If you're installing on a local machine or server, you might need information from your System Admin."
+msgstr "Um diesen Assistenten abgeschlossen haben, müssen Sie einige Informationen zu dem Datenbankserver kennen. Wenn Sie auf einem lokalen Computer oder Server installieren, können Sie Informationen von Ihrem System Admin benötigen."
+
+#: Areas\Admin\Views\Listing\ListingTypeUpdate.cshtml:78
+msgid "To configure payment method for payout, please configure the Payment plugin"
+msgstr "Um die Zahlungsmethode zur Auszahlung zu konfigurieren, konfigurieren Sie bitte die Zahlung Plugin"
+
+#: Views\Payment\Payment.cshtml:49
+msgid "To Date"
+msgstr "Bis zum Zeitpunkt"
+
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:30
+msgid "Transaction fee (%)"
+msgstr "Transaktionsgebühr (%)"
+
+#: C:\git\beyourmarketWeinsberg\beyourmarket\src\Plugins\Plugin.Payment.Stripe\Controllers\PaymentStripeController.cs:263
+msgid "Transaction not found"
+msgstr "Transaktion nicht gefunden"
+
+#: Areas\Admin\Views\Payment\PaymentSetting.cshtml:18
+msgid "Transaction Settings"
+msgstr "Transaktionseinstellungen"
+
+#: Views\Payment\Transaction.cshtml:5
+#: Views\Payment\Transaction.cshtml:20
+#: Views\Shared\_DashBoardSide.cshtml:15
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:37
+#: Areas\Admin\Views\Payment\Transaction.cshtml:2
+#: Areas\Admin\Views\Payment\Transaction.cshtml:14
+#: Areas\Admin\Views\Shared\_NavigationSide.cshtml:123
+msgid "Transactions"
+msgstr "Transaktionen"
+
+#: Areas\Admin\Views\Listing\CustomFields.cshtml:64
+#: Areas\Admin\Views\Listing\CustomFieldUpdate.cshtml:33
+msgid "Type"
+msgstr "Art"
+
+#: Areas\Admin\Views\Listing\Categories.cshtml:108
+#: Areas\Admin\Views\Listing\Categories.cshtml:116
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:109
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:117
+#: Areas\Admin\Views\Manage\Users.cshtml:84
+#: Areas\Admin\Views\Manage\Users.cshtml:92
+msgid "Type DELETE to confirm delete"
+msgstr "Löschen Art zu bestätigen löschen"
+
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:17
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: Views\Account\ExternalLoginFailure.cshtml:7
+msgid "Unsuccessful login with service."
+msgstr "Erfolglose Login mit Service."
+
+#: Views\Listing\ListingUpdate.cshtml:74
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:159
+msgid "Upload Pictures"
+msgstr "Bilder hochladen"
+
+#: Views\Account\_ExternalLoginsListPartial.cshtml:4
+msgid "Use another service to log in."
+msgstr "Verwenden Sie einen anderen Dienst anmelden."
+
+#: Areas\Admin\Views\Install\Index.cshtml:71
+msgid "Use integrated authentication"
+msgstr "Verwenden Sie die integrierte Authentifizierung"
+
+#: Views\Home\About.cshtml:7
+msgid "Use this area to provide additional information."
+msgstr "In diesem Bereich können zusätzliche Informationen zur Verfügung zu stellen."
+
+#: Views\Payment\Orders.cshtml:117
+#: Areas\Admin\Views\Listing\ListingUpdate.cshtml:80
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:16
+msgid "User"
+msgstr "Benutzer"
+
+#: Areas\Admin\Controllers\ManageController.cs:211
+msgid "User {0} is deleted."
+msgstr "Benutzer {0} gelöscht."
+
+#: Areas\Admin\Views\Install\Index.cshtml:25
+msgid "User information"
+msgstr "Teilnehmerprofil"
+
+#: Areas\Admin\Views\Manage\Users.cshtml:99
+msgid "User is deleted."
+msgstr "Benutzer wird gelöscht."
+
+#: Areas\Admin\Views\Manage\UserUpdate.cshtml:4
+msgid "User update"
+msgstr "Benutzer Update"
+
+#: Views\Manage\UserProfile.cshtml:36
+msgid "UserName"
+msgstr "Benutzername"
+
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:47
+#: Areas\Admin\Views\Manage\Users.cshtml:7
+#: Areas\Admin\Views\Manage\Users.cshtml:20
+msgid "Users"
+msgstr "Benutzer"
+
+#: Views\Account\VerifyCode.cshtml:3
+msgid "Verify"
+msgstr "Verifizieren"
+
+#: Views\Manage\VerifyPhoneNumber.cshtml:3
+msgid "Verify Phone Number"
+msgstr "Stellen Sie sicher, Telefonnummer"
+
+#: Areas\Admin\Views\Manage\Settings.cshtml:56
+#: Areas\Admin\Views\Plugin\Plugins.cshtml:52
+msgid "Version"
+msgstr "Version
+"
+
+#: Views\Listing\Listing.cshtml:231
+#: Views\Listing\_ListingContactModal.cshtml:18
+msgid "View User's other listings"
+msgstr "Benutzer betrachten Other Listings"
+
+#: Views\Listing\Listing.cshtml:266
+msgid "View user's profile and other listings"
+msgstr "Benutzer-Profile und andere Inserate"
+
+#: Views\Manage\UserProfile.cshtml:30
+msgid "View Your Profile"
+msgstr "Ihr Profil anschauen"
+
+#: Views\Listing\Listing.cshtml:191
+msgid "Views"
+msgstr "Ansichten"
+
+#: Areas\Admin\Views\Manage\Dashboard.cshtml:8
+msgid "Welcome to {0} Admin Panel!"
+msgstr "Willkommen auf dem WJ App Admin Panel"
+
+#: Controllers\AccountController.cs:246
+msgid "Welcome to {0}!"
+msgstr "Willkommen auf dem"
+
+#: Views\Listing\Review.cshtml:72
+#: Views\Listing\_ListingReviewModal.cshtml:27
+msgid "Write your review..."
+msgstr "Schreiben Sie eine Bewertung..."
+
+#: App_Code\RazorHelper.cshtml:7
+msgid "Yes"
+msgstr "Ja"
+
+#: Views\Payment\Orders.cshtml:171
+#: Areas\Admin\Views\Payment\Order.cshtml:147
+msgid "Yes!"
+msgstr ""Ja Sir""
+
+#: Views\Manage\Dashboard.cshtml:72
+#: Areas\Admin\Views\Listing\Categories.cshtml:106
+#: Areas\Admin\Views\Listing\Listings.cshtml:97
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:107
+#: Areas\Admin\Views\Manage\Users.cshtml:82
+msgid "Yes, delete it!"
+msgstr "Ja, löschen!"
+
+#: Controllers\PaymentController.cs:314
+msgid "You cannot book the item from yourself!"
+msgstr "Sie können das Element nicht aus sich selbst buchen!"
+
+#: Areas\Admin\Controllers\ManageController.cs:203
+msgid "You cannot delete Administrator, change the user role first."
+msgstr "Sie können nicht Administrator zu löschen, die Benutzerrolle zuerst ändern."
+
+#: Controllers\ListingController.cs:608
+#: Areas\Admin\Controllers\ListingController.cs:657
+msgid "You cannot delete item with orders! You can deactivate it instead."
+msgstr "Sie können nicht Artikel mit dem Befehl löschen! Sie können es stattdessen deaktivieren."
+
+#: Controllers\ListingController.cs:803
+msgid "You cannot review the order!"
+msgstr "Sie können den Auftrag nicht bewertet"
+
+#: Controllers\ListingController.cs:795
+#: Controllers\ListingController.cs:895
+msgid "You cannot review yourself!"
+msgstr "Sie können sich nicht bewertet"
+
+#: Controllers\ListingController.cs:698
+msgid "You cannot send message to yourself!"
+msgstr "Sie können keine Nachricht an sich selbst schicken!"
+
+#: Areas\Admin\Controllers\ListingController.cs:677
+msgid "You cannot the listing type. There should be at least one listing type."
+msgstr "Sie können nicht die Aufzählungstyp. Es sollte mindestens ein Aufzählungstyp sein."
+
+#: Controllers\ListingController.cs:881
+msgid "You have reach the review limits today!"
+msgstr "Sie haben die Überprüfung Grenzen heute erreichen!"
+
+#: Controllers\AccountController.cs:112
+msgid "You must have a confirmed email to log on."
+msgstr "Sie müssen die E-Mail bestätigt mit der Sie sich angemeldet haben."
+
+#: Views\Manage\Dashboard.cshtml:68
+#: Areas\Admin\Views\Listing\Listings.cshtml:93
+msgid "You will delete"
+msgstr "löschen erfolgt"
+
+#: Areas\Admin\Views\Listing\Categories.cshtml:102
+msgid "You will delete all listings with the category "
+msgstr "Sie werden alle Einträge mit der Kategorie löschen "
+
+#: Areas\Admin\Views\Listing\ListingTypes.cshtml:103
+msgid "You will delete all listings with the listing type "
+msgstr "Sie werden alle Einträge mit dem Aufzählungstyp löschen "
+
+#: Areas\Admin\Views\Manage\Users.cshtml:78
+msgid "You will delete the user and its all listings from "
+msgstr "Sie werden den Benutzer und alle seine Einträge löschen "
+
+#: Views\Home\Contact.cshtml:24
+msgid "Your Email"
+msgstr "Ihre E-Mail"
+
+#: Controllers\ListingController.cs:616
+msgid "Your listing has been deleted."
+msgstr "Ihr Eintrag wurde gelöscht."
+
+#: Views\Account\ResetPasswordConfirmation.cshtml:15
+msgid "Your password has been reset."
+msgstr "Dein Passwort wurde zurückgesetzt."
+
